@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.bimberonline.com	TRUE	/	FALSE	1999999999	__cf_bm	BV90ZMPQAHLG8iG6ul7BNeFr7MfGYzt2fyj8QID.ySs-1724211742-1.0.1.1-lVEvwl2lJ.GZXwehKh8t.JZAc8sgUKNaDb0wX.XdDbDoRkFfvVBrOQhb7m_qa2IF8HQZtNCx3ICAUmnCJo_m6A
+bimberonline.com	TRUE	/	FALSE	1999999999	SameSite	None
+
